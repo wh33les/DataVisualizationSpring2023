@@ -1,1 +1,0 @@
-This problem set consists of 4 Jupyter notebook problems, and another set whose instructions are given in the .pdf file.  I have made separatae Jupyter notebooks for each problem in the .pdf file set.
